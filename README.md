@@ -16,12 +16,12 @@ To use this project, you need to have Go installed on your machine. You can down
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/shacharbd/proxy-scrap-go.git
+    git clone https://github.com/shacharbd/proxy-scrape-go.git
     ```
 2. Navigate to the project directory:
 
     ```shell
-    cd proxy-scrap-go
+    cd proxy-scrape-go
     ```
 3. Install the dependencies:
 
