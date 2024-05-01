@@ -4,10 +4,10 @@
 basic  API sergo programs demonstrating using web scraping with Colly, GOquery, Selenium using proxy servers
 
 This repository contains two branches:
-- The `basic` branch contains the base code that will be modified in the article [Go Proxy Servers](https://brightdata.com/blog/how-tos/web-scraping-go).
+- The `basic` branch contains the base code that will be modified in the article [Web Scraping in Go](https://brightdata.com/blog/how-tos/web-scraping-go).
 - The `main` branch is the result of the article tutorial.
 
-This project demonstrates setting up proxy servers in [Go for web scraping](https://brightdata.com/blog/how-tos/web-scraping-go), Proxies protect your digital identity during web scraping by using their IP address, circumventing IP bans and geoblocking.
+This project demonstrates setting up proxy servers in [Web Scraping in Go](https://brightdata.com/blog/how-tos/web-scraping-go), Proxies protect your digital identity during web scraping by using their IP address, circumventing IP bans and geoblocking.
 
 ## Installation
 To use this project, you need to have Go installed on your machine. You can download and install Go from the official website: [https://golang.org/](https://golang.org/)
@@ -27,11 +27,6 @@ To use this project, you need to have Go installed on your machine. You can down
 
     ```shell
     go mod download
-    ```
-4. Run the project:
-
-    ```shell
-    go run main.go
     ```
 ## Usage
 This project demonstrates how to use web scraping with proxy servers in Go. It utilizes the following libraries:
