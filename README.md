@@ -1,6 +1,6 @@
 [![Promo](https://brightdata.com/static/github_promo_15.png?md5=105367-daeb786e)](https://brightdata.com/?promo=github15) 
 
-# proxy_scrap_go
+# proxy_scrape_go
 basic  API sergo programs demonstrating using web scraping with Colly, GOquery, Selenium using proxy servers
 
 This repository contains two branches:
